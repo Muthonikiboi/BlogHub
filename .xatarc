@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://J-Kiboi-s-workspace-lklkg7.us-east-1.xata.sh/db/BlogHub",
+  "codegen": {
+    "output": "xata.ts"
+  }
+}
